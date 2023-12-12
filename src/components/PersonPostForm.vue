@@ -59,7 +59,7 @@ const color = computed(() => {
           <option value="">- 種類を選んでください -</option>
           <option value="犬">犬</option>
           <option value="猫">猫</option>
-          <option value="うさき">うさぎ</option>
+          <option value="うさぎ">うさぎ</option>
           <option value="ハムスター">ハムスター</option>
           <option value="鳥">鳥</option>
           <option value="その他">その他</option>
